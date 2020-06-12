@@ -1,4 +1,3 @@
 def reverse_each_word (string)
-  new string
-  string.reverse
+  puts string.reverse
 end
